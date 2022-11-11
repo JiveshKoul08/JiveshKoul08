@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiveshkoul08&label=Profile%20views&color=0e75b6&style=flat" alt="jiveshkoul08" /> </p>
 
-- 🔭 I’m currently working **a pre-final year student at ABES Engineering College, Ghaziabad.**
+- 🔭 I’m currently **a final year student at ABES Engineering College, Ghaziabad.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
